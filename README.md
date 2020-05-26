@@ -1,4 +1,4 @@
-# daily-ui-1-signup
+# RelaxingResort-signup
 
 ## Project setup
 ```
